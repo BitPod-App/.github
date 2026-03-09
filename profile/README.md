@@ -26,11 +26,11 @@ The product direction is clear, but parts of the public surface, repository stru
 
 ### Tools (priority)
 
-[![BitPod Tools preview](https://raw.githubusercontent.com/BitPod-App/bitpod-assets/main/repo-previews/bitpod-tools-preview.png)](https://github.com/BitPod-App/bitpod-tools)
+[![BitPod Tools preview](https://raw.githubusercontent.com/BitPod-App/bitpod-assets/main/assets/brand/social/repo-previews/bitpod-tools-preview.png)](https://github.com/BitPod-App/bitpod-tools)
 
 ### Sector Feeds
 
-[![Sector Feeds preview](https://raw.githubusercontent.com/BitPod-App/bitpod-assets/main/repo-previews/sector-feeds-preview.png)](https://github.com/BitPod-App/sector-feeds)
+[![Sector Feeds preview](https://raw.githubusercontent.com/BitPod-App/bitpod-assets/main/assets/brand/social/repo-previews/sector-feeds-preview.png)](https://github.com/BitPod-App/sector-feeds)
 
 ## How we build
 
