@@ -22,16 +22,6 @@ BitPod App is still a work in progress.
 
 The product direction is clear, but parts of the public surface, repository structure, and supporting systems are still evolving.
 
-## Repo previews
-
-### Tools (priority)
-
-[![BitPod Tools preview](https://raw.githubusercontent.com/BitPod-App/bitpod-assets/main/assets/brand/social/repo-previews/bitpod-tools-preview.png)](https://github.com/BitPod-App/bitpod-tools)
-
-### Sector Feeds
-
-[![Sector Feeds preview](https://raw.githubusercontent.com/BitPod-App/bitpod-assets/main/assets/brand/social/repo-previews/sector-feeds-preview.png)](https://github.com/BitPod-App/sector-feeds)
-
 ## How we build
 
 We prefer:
