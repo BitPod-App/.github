@@ -1,46 +1,50 @@
 # BitPod App
 
-BitPod App is being built for Bitcoiners.
+BitPod is being built for Bitcoiners who want to publish a clear thesis, state
+their conviction, and see what holds up over time.
 
-We’re working on a better way to publish Bitcoin theses, signal conviction, and see what tracks over time.
+> **Pre-Alpha:** BitPod is still taking shape. This GitHub organization is the
+> only official public source for now. There is no public product destination
+> for visitors yet.
 
-## What this org contains
+## What we're building toward
 
-This organization includes a mix of:
+BitPod's direction is to help people:
 
-- application code
-- internal tooling
-- infrastructure
-- automation and workflow systems
-- technical documentation and supporting experiments
+- publish a Bitcoin thesis in plain language
+- make conviction and timing explicit
+- preserve how an idea changes instead of rewriting its history
+- compare claims with what happens over time
 
-Some repositories are product-facing. Others exist to support disciplined execution behind the product.
+These are product goals, not a claim that a public release is available today.
 
-## Current status
+## Public GitHub surface
 
-BitPod App is still a work in progress.
+This organization is intentionally lean during pre-Alpha. Public repositories
+are reviewed separately before BitPod treats their contents as an approved
+outward surface. Most product code, internal tooling, infrastructure, and
+operating material remain private.
 
-The product direction is clear, but parts of the public surface, repository structure, and supporting systems are still evolving.
+## Contributions
 
-## How we build
+BitPod is not accepting outside code or content contributions during pre-Alpha.
+Please do not open unsolicited pull requests. We will publish a maintained
+contribution process here if that changes.
 
-We prefer:
+See our [contribution policy](https://github.com/BitPod-App/.github/blob/main/CONTRIBUTING.md)
+for the current boundary.
 
-- clear product thinking
-- simple systems that hold up under pressure
-- versioned decisions over drifting intent
-- strong QA and careful shipping
-- practical execution over hype
+## Security
+
+Please do not report security concerns in a public issue. Send a private report
+to [cj@bitpod.app](mailto:cj@bitpod.app) instead. See our
+[security policy](https://github.com/BitPod-App/.github/blob/main/SECURITY.md)
+for what to include.
 
 ## Principles
 
-- Build for Bitcoiners
-- Keep the signal clear
-- Let ideas face time
-- Reduce drift between intent, implementation, and shipped behavior
-- Stay focused on usefulness, not noise
-
-## Public profile note
-
-This GitHub org is intentionally lean for now.  
-Some repositories may be experimental, internal-leaning, or in transition as BitPod App continues to take shape.
+- Build for Bitcoiners.
+- Keep the signal clear.
+- Let ideas face time.
+- Preserve intent instead of rewriting history.
+- Prefer useful products over noise.
